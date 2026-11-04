@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用竞赛策略与复盘"
+  short_description: "沉淀竞赛失利教训，识别真实差距，在停滞时跳出旧框架并验证替代方案"
+  default_prompt: "使用 $competition-optimizer 根据本次比赛的赛制、评判标准与资源，诊断主要竞争差距，在预算内实施并验证更有竞争力的方案。"
